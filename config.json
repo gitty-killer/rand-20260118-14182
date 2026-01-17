@@ -1,0 +1,13 @@
+{
+  "project_title": "Habit Consistency Tracker",
+  "goal": "Track habit adherence and flag habits with low consistency.",
+  "entity_name": "habit",
+  "amount_label": "sessions",
+  "score_label": "consistency_score",
+  "categories": [
+    "health",
+    "learning",
+    "work",
+    "creative"
+  ]
+}
